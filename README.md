@@ -1,12 +1,12 @@
 # Forum de Projetos PHP Brasil
 
-Aqui vamos focar em dicuções sobre projetos a serem desenvolvidas pela comunidade [PHP Brasil do Telegrem](https://telegram.me/phpbrasil), caso tenha uma ideia ou sugestão abra uma issue.
+Aqui vamos focar em discussões sobre projetos a serem desenvolvidas pela comunidade [PHP Brasil do Telegram](https://telegram.me/phpbrasil), caso tenha uma ideia ou sugestão abra uma issue.
 
 ## Projetos desta comunidade 
 
  - Nenhum
 
-## Projetos Brasil a Fora
+## Projetos Brasil a fora
 
 Envie sua PR adicionando o projeto de acordo com o exemplo.
 
