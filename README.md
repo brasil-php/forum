@@ -12,3 +12,4 @@ Envie sua PR adicionando o projeto de acordo com o exemplo.
 
  - [Arena PHP](https://github.com/erikfig/arena-php) - Game de console feito em PHP.
  - [PHP Terminal GameBoy Emulator](https://github.com/gabrielrcouto/php-terminal-gameboy-emulator) - Emulador de GameBoy que rola no terminal usando PHP 7.
+ - [PHP Gui](https://github.com/gabrielrcouto/php-gui) - Extensionless PHP Graphic User Interface library.
