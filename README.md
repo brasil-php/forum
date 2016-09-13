@@ -15,7 +15,7 @@ Envie sua PR adicionando o projeto de acordo com o exemplo.
  - [PHP Gui](https://github.com/gabrielrcouto/php-gui) - Extensionless PHP Graphic User Interface library.
 
 
-## No PHP
+## Não PHP
 
 Aqui temos projetos legais em qualquer outra coisa que não PHP
 
